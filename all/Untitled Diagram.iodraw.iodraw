@@ -38,7 +38,7 @@
           <mxGeometry x="80" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fCszKOTzMVL0SZygxljn-23" value="DoBusywork()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fCszKOTzMVL0SZygxljn-29" value="TimerClick()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
