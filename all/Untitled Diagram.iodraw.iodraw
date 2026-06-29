@@ -91,6 +91,9 @@
         <mxCell id="fCszKOTzMVL0SZygxljn-58" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="20" y="110" width="50" height="500" as="geometry" />
         </mxCell>
+        <mxCell id="fCszKOTzMVL0SZygxljn-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fCszKOTzMVL0SZygxljn-36" target="fCszKOTzMVL0SZygxljn-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
