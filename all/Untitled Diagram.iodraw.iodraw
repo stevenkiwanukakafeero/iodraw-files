@@ -88,11 +88,8 @@
             <mxPoint x="640" y="429.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fCszKOTzMVL0SZygxljn-53" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="560" as="sourcePoint" />
-            <mxPoint x="10" y="110" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="fCszKOTzMVL0SZygxljn-54" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="500" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
