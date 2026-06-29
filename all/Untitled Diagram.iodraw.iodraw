@@ -71,8 +71,8 @@
         </mxCell>
         <mxCell id="fCszKOTzMVL0SZygxljn-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="239.5" y="1200" as="sourcePoint" />
-            <mxPoint x="239.5" y="1270" as="targetPoint" />
+            <mxPoint x="239.5" y="1180" as="sourcePoint" />
+            <mxPoint x="239.5" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fCszKOTzMVL0SZygxljn-23" value="DoBusywork()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fCszKOTzMVL0SZygxljn-29" value="DoBusywork()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1280" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
