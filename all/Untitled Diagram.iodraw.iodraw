@@ -38,7 +38,7 @@
           <mxGeometry x="80" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fCszKOTzMVL0SZygxljn-23" value="DoBusywork()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fCszKOTzMVL0SZygxljn-29" value="TimerClick()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
@@ -84,8 +84,8 @@
         </mxCell>
         <mxCell id="fCszKOTzMVL0SZygxljn-51" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.488;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="420" as="sourcePoint" />
-            <mxPoint x="640" y="420" as="targetPoint" />
+            <mxPoint x="480" y="429.33" as="sourcePoint" />
+            <mxPoint x="640" y="429.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
