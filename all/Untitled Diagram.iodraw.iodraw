@@ -51,9 +51,12 @@
         </mxCell>
         <mxCell id="fCszKOTzMVL0SZygxljn-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="259.5" y="620" as="sourcePoint" />
-            <mxPoint x="259.5" y="690" as="targetPoint" />
+            <mxPoint x="239.5" y="930" as="sourcePoint" />
+            <mxPoint x="239.5" y="1000" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fCszKOTzMVL0SZygxljn-16" value="Assign Time EventHandler" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="680" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
