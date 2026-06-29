@@ -13,7 +13,7 @@
             <mxPoint x="239.5" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fCszKOTzMVL0SZygxljn-7" value="Script start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fCszKOTzMVL0SZygxljn-7" value="Initialise Global Variables" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="220" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
