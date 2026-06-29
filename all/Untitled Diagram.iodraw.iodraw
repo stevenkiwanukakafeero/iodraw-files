@@ -90,13 +90,13 @@
         <mxCell id="fCszKOTzMVL0SZygxljn-29" value="TimerClick()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fCszKOTzMVL0SZygxljn-30" value="Timer Fires" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fCszKOTzMVL0SZygxljn-30" value="update named controls" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="1380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fCszKOTzMVL0SZygxljn-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="249.5" y="1190" as="sourcePoint" />
-            <mxPoint x="249.5" y="1260" as="targetPoint" />
+            <mxPoint x="239.5" y="1310" as="sourcePoint" />
+            <mxPoint x="239.5" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
