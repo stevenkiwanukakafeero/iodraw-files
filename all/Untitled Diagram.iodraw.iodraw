@@ -46,8 +46,14 @@
         <mxCell id="BgAWE97c53vBrlp7YqSV-11" value="Update UI controls&lt;br&gt;(namedControl.SetText()&lt;br&gt;namedControl" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BgAWE97c53vBrlp7YqSV-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BgAWE97c53vBrlp7YqSV-13" target="BgAWE97c53vBrlp7YqSV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgAWE97c53vBrlp7YqSV-13" value="Record current Elapsed Time" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BgAWE97c53vBrlp7YqSV-15" value="computeValue = 1000 * elapsedTime/ iteration" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
