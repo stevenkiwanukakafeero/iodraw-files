@@ -111,6 +111,9 @@
         <mxCell id="BgAWE97c53vBrlp7YqSV-32" value="Continue loop" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="755" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BgAWE97c53vBrlp7YqSV-34" value="yes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="364" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
