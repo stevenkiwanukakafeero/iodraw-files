@@ -40,8 +40,14 @@
         <mxCell id="BgAWE97c53vBrlp7YqSV-9" value="Memory Stress&amp;nbsp;&lt;div&gt;creation(message = message .. newLetter)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BgAWE97c53vBrlp7YqSV-11" value="Update UI controls&lt;br&gt;(namedControl." style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BgAWE97c53vBrlp7YqSV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BgAWE97c53vBrlp7YqSV-11" target="BgAWE97c53vBrlp7YqSV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BgAWE97c53vBrlp7YqSV-11" value="Update UI controls&lt;br&gt;(namedControl.SetText()&lt;br&gt;namedControl" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BgAWE97c53vBrlp7YqSV-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
