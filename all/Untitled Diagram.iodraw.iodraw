@@ -58,7 +58,7 @@
         <mxCell id="BgAWE97c53vBrlp7YqSV-15" value="computeValue = 1000 * elapsedTime/ iteration" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BgAWE97c53vBrlp7YqSV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.411;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BgAWE97c53vBrlp7YqSV-17" target="BgAWE97c53vBrlp7YqSV-19">
+        <mxCell id="BgAWE97c53vBrlp7YqSV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.28;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BgAWE97c53vBrlp7YqSV-17" target="BgAWE97c53vBrlp7YqSV-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgAWE97c53vBrlp7YqSV-17" value="Compare Against Supported Rate" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
